@@ -24,3 +24,8 @@
  ```
  winstop
  ```
+
+## Para visualizar o seu ambiente :
+
+- [Clique Aqui](http://localhost:8006/)
+
